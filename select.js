@@ -1,4 +1,4 @@
-const {remove,add,update}=require(`./a`)
+const {remove,add,update}=require(`./arr`)
 
 console.log(update("moshe"))
 
