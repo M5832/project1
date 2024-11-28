@@ -1,4 +1,8 @@
+
 const {remove,add,update}=require(`./arr`)
+
+const {remove,add,update}=require(`./bbb`)
+
 
 console.log(update("moshe"))
 
